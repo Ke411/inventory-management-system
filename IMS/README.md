@@ -287,5 +287,5 @@ Passwords are SHA-256 hashed. Use `seed_data.py` to restore defaults.
 ---
 
 ## 📬 Contact
-John Kennedy — 2205986@students.kcau.ac.ke  
+John Kennedy — kennedyouma784@gmail.com 
 BIT 03105 Programming Project — KCA University, Sep–Dec 2024
